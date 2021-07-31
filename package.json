@@ -1,0 +1,20 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "nodemon": "^2.0.12",
+    "screenshot-promise": "^2.0.0",
+    "webshot-node": "^0.18.2"
+  }
+}
